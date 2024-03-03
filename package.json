@@ -1,0 +1,16 @@
+{
+  "name": "git-extended",
+  "version": "1.0.0",
+  "description": "Git repo for educational purposes",
+  "main": "index.js",
+  "keywords": [],
+  "repository": "https://github.com/Katerok27153/git-extended.git",
+  "author": "Ekaterina Vernikovskaya 1132236136@pfur.ru",
+  "license": "CC-BY-4.0",
+  "config": {
+    "commitizen": {
+      "path": "cz-conventional-changelog"
+        }
+    }
+}
+
